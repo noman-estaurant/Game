@@ -214,28 +214,28 @@ body{
   position:absolute;
 	background-image:url("https://i.imgur.com/i8Yvb94.png");
 	background-size:16.71795vw;
-  width: 16.71795vw;
-  height: 9.400231vh;
-  font-size: 6.461538vw;
-  text-align: center;
-	color:white;
-  line-height: 9.16955vh;
-	z-index:6;
-	opacity:0;
+	width: 16.71795vw;
+  	height: 9.400231vh;
+  	font-size: 6.461538vw;
+  	text-align: center;
+  	color:white;
+  	line-height: 9.16955vh;
+  	z-index:6;
+  	opacity:0;
   }
 
 .selected{
-  position:absolute;
-  background-image:url("https://i.imgur.com/i8Yvb94.png");
-  background-size:16.71795vw;
-  width: 16.71795vw;
-  height: 9.400231vh;
-  font-size: 6.461538vw;
-  text-align: center;
-  color:white;
-  line-height: 9.16955vh;
-  z-index:6;
-  opacity:1;
+  	position:absolute;
+  	background-image:url("https://i.imgur.com/i8Yvb94.png");
+  	background-size:16.71795vw;
+  	width: 16.71795vw;
+  	height: 9.400231vh;
+ 	 font-size: 6.461538vw;
+ 	 text-align: center;
+ 	 color:white;
+ 	 line-height: 9.16955vh;
+ 	 z-index:6;
+ 	 opacity:1;
 }
 
 #cabinet_ok {

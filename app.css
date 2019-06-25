@@ -56,6 +56,15 @@ body{
 	z-index:10;
 }
 
+#how_many_times {
+  position:absolute;
+  top:20vh;
+  left:37vw;
+  font-size:5vw;
+  color:white;
+  z-index:5;
+}
+
 .choose_box {
 	background:rgb(247,208,220);
 	position:absolute;
